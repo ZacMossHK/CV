@@ -61,7 +61,7 @@ Worked on everything from blockbuster film productions to commercials and music 
 #### University for the Creative Arts (September ‘08 - June ‘11)
 Digital Film and Screen Arts - 2-2
 
-## Other things I enjoy outside coding:
+## Other things I enjoy outside coding
 
 I really enjoy rock climbing and photography. I took an eight month trip through Europe and Turkey (lots of baklava), climbing some incredible and challenging routes (seeking challenge is a theme here) and taking photos of climbers ranging from amateur friends to Olympians. If you're interested you can check out photos from my adventures at https://www.zacmoss.co.uk/
 
