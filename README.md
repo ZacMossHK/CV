@@ -10,16 +10,6 @@ I’m Zac Moss, I’m a full-stack software engineer and alumni of the Makers Ac
 
 I learned to code after meeting software engineers working remote while on a rock climbing trip in Thailand. I loved the sound of a career that allowed so much flexibility! When I returned I entered lockdown and immediately started a course on Codecademy. I’ve been hooked ever since.
 
-## Why Hire Me?
-
-***I love to be challenged:*** After my first online course I wanted a project that would flex my new coding skills. I wrote a script that would interact with one of my favourite websites, a database of rock climbs from around the world. It didn't have a public API so I learned how to scrape the site using Selenium to render dynamically loading pages and BeautifulSoup, a library for parsing a page's DOM, and converted the data into a leaderboard for who had completed the most climbs in an area. This proved popular with my climbing friends who are very competitive!
-
-***Not afraid to fail:*** In my last group project at Makers we had two weeks to develop an app from scratch. We decided on a bill-splitting app for working out group meal costs in restaurants. For an added challenge, I suggested we make it a mobile app and write it in React Native - neither of which I had any experience with! This paid off when we finished with an iOS app that we could deploy through Expo.
-
-***Calm under pressure:*** I am used to keeping it together in high-stress situations. I have worked in special effects teams on film and tv productions working with fire and water effects where mistakes could have consequences of serious injury. As a climbing photographer I would be responsible for my own safety while abseiling, hanging in mid-air on a rope while taking photos of professional climbers and athletes - sometimes only getting one attempt to get the shot!
-
-***I’m always working on something:*** If I’m not developing my own projects (just ask me what I’m working on at the moment), you can find me [solving kata on Code Wars where I have a 3 kyu rating](https://www.codewars.com/users/ZacMoss).
-
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -31,6 +21,16 @@ I learned to code after meeting software engineers working remote while on a roc
 | [**Gilded Rose**](https://github.com/ZacMossHK/Gilded-Rose-Javascript)| Inventory manager for a fictional shop. Items degrade in quality with each passing day depending on the special qualities of the item. | Javascript, Jest |
 | [**Bank Tech Test**](https://github.com/ZacMossHK/BankTechTest)| Mock tech test, a transaction handler for a bank account. It validates and records withdrawals and deposits and can return a bank statement based on the account’s transaction history. | Javascript, Jest |
 | [**Busiest Climber**](https://github.com/ZacMossHK/Busiest-Climbers-UKC)| Web scraper and leaderboard creator. Scrapes the second largest database of rock climbs in the world and builds a top ten leaderboard for an area based on who had completed the most climbs. My earliest project! | Python, Selenium, BeautifulSoup |
+
+## Why Hire Me?
+
+***I love to be challenged:*** After my first online course I wanted a project that would flex my new coding skills. I wrote a script that would interact with one of my favourite websites, a database of rock climbs from around the world. It didn't have a public API so I learned how to scrape the site using Selenium to render dynamically loading pages and BeautifulSoup, a library for parsing a page's DOM, and converted the data into a leaderboard for who had completed the most climbs in an area. This proved popular with my climbing friends who are very competitive!
+
+***Not afraid to fail:*** In my last group project at Makers we had two weeks to develop an app from scratch. We decided on a bill-splitting app for working out group meal costs in restaurants. For an added challenge, I suggested we make it a mobile app and write it in React Native - neither of which I had any experience with! This paid off when we finished with an iOS app that we could deploy through Expo.
+
+***Calm under pressure:*** I am used to keeping it together in high-stress situations. I have worked in special effects teams on film and tv productions working with fire and water effects where mistakes could have consequences of serious injury. As a climbing photographer I would be responsible for my own safety while abseiling, hanging in mid-air on a rope while taking photos of professional climbers and athletes - sometimes only getting one attempt to get the shot!
+
+***I’m always working on something:*** If I’m not developing my own projects (just ask me what I’m working on at the moment), you can find me [solving kata on Code Wars where I have a 3 kyu rating](https://www.codewars.com/users/ZacMoss).
 
 ## Experience
 
