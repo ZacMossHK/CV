@@ -1,6 +1,6 @@
 # Zac Moss
 
-[Find my PDF CV here](https://github.com/ZacMossHK/CV/blob/master/ZacMossCV.pdf)
+[Find my PDF CV here](https://github.com/ZacMossHK/CV/blob/master/ZacMossCVFeb2023.pdf)
 
 Get in touch @ zac@zacmoss.co.uk
 
