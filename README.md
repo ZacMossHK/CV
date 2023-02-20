@@ -34,6 +34,14 @@ I learned to code after meeting software engineers working remote while on a roc
 
 ## Experience
 
+#### Zac Moss Development (October ‘22 - present) - Freelance Full Stack Developer & Software Engineer
+- Freelance software developer specialising in full stack web applications and automation using React, Javascript, and Python.
+- Recently worked on a full-stack application using React, Node.js and Python to automate user interaction data collection with the Twitter API and Tweepy library of up to 2 million tweets a month.
+- Utilised a Firestore NoSQL database for cloud data storage.
+- Practiced TDD to ensure high-quality code by utilising Jest and Pytest frameworks.
+- Successfully developed the front-end using React and Firebase Functions in Node.JS, creating a secure and user-friendly experience
+
+
 #### Makers Academy (July ‘22 - October ‘22)
 - Joined the Makers Academy bootcamp with hopes and dreams of emerging as a professional software engineer.
 - Learned to work in a team environment using Agile methodologies to build exciting projects
