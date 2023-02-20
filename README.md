@@ -6,7 +6,7 @@ Get in touch @ zac@zacmoss.co.uk
 
 ## About Me
 
-I’m Zac Moss, I’m a full-stack software engineer and alumni of the Makers Academy July ‘22 cohort. I write in Javascript (including React and React Native) and Ruby.
+I’m Zac Moss, I’m a full-stack software engineer and alumni of the Makers Academy July ‘22 cohort. I write in Javascript (including React and React Native), Python, and Ruby.
 
 I learned to code after meeting software engineers working remote while on a rock climbing trip in Thailand. I loved the sound of a career that allowed so much flexibility! When I returned I entered lockdown and immediately started a course on Codecademy. I’ve been hooked ever since.
 
